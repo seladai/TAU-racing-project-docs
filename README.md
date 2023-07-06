@@ -7,10 +7,19 @@ Overtakes, Battles and Time Gain/Loss
 
 # Documentation
 
+For general overview and implementation, please see [The project book](resources/final-project-book-205846488.pdf)
+
+Facing multiple engineering challenges of signal processing, data engineering, algorithms, research, hypothesis, testing and visualization,
+the essence of the project is using signal processing methods and race logic to implement three racing data analysis algorithms, shown in the following diagram, and will be described in detail in this book: Overtakes, Battles, and Errors (Time Gains and Loss)
+
+![img.png](resources/system_blck_dgrm.png)
+Block diagram of the project workflow
+
 To understand the project’s software architecture, 
 we will first look at overview of the UML class diagrams, showing relations, abstraction, and modularity
 
-![img.png](img.png)
+![img.png](resources/UML_class_diagram.png)
+UML class diagrams
 
 ## Main classes
 
